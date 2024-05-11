@@ -1,13 +1,10 @@
 ## Readme File 
 ****
-*This is the readme file of the sdsc3002 Group Project*     
+  
 *Movie recommender system and algorithm comparison*  
-**Group Member:**   
+
 *SID: 56641800&emsp; &emsp; Name: Du Junye*  
-*SID: 55670256&emsp; &emsp; Name: Shan Jinyun*    
-*SID: 56236609&emsp; &emsp; Name: Li Zhangchao*    
-*SID: 56197665&emsp; &emsp; Name: Zhang Zirui*  
-*This project is only for the use of course requirement of sdsc3002*  
+
 ****
 **Python Verison and Package version:**   
 **Note:** *Please make sure that the packages are installed correctly to make the program run normally.*    
